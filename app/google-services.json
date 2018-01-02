@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "984268783814",
+    "firebase_url": "https://queen-bc5db.firebaseio.com",
+    "project_id": "queen-bc5db",
+    "storage_bucket": "queen-bc5db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984268783814:android:8d6aecf2e34af702",
+        "android_client_info": {
+          "package_name": "com.chian.queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984268783814-0v9pva4tf3s52n9komde6uai4i96dvbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chian.queen",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "984268783814-h3qh9th8m3jttq9o824dag6vefoj3f7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0XOAEWJUQfrLbYC81T7-sK-8Y9a2eklo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984268783814-h3qh9th8m3jttq9o824dag6vefoj3f7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
